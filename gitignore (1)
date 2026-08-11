@@ -1,0 +1,47 @@
+# Datos sensibles / archivos grandes
+*.csv
+*.xlsx
+*.xls
+Data/
+datos/
+raw/
+
+# SQL Server / SSIS
+*.bak
+*.trn
+*.mdf
+*.ldf
+*.dtproj
+*.database
+*.sqlproj.user
+bin/
+obj/
+
+# Visual Studio / SSMS
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Power BI
+*.pbix
+*.pbit
+~$*
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs y temporales
+*.log
+*.tmp
+Temp/
+temp/
