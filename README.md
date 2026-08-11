@@ -4,7 +4,7 @@
 
 Sistema de análisis y visualización de órdenes de compra provenientes de los **Catálogos Electrónicos** de la Central de Compras Públicas – PERÚ COMPRAS.
 
-🔗 Fuente de datos: [PERÚ COMPRAS – Catálogos Electrónicos](https://www.gob.pe/perucompras)
+🔗 Fuente de datos: [PERÚ COMPRAS – Catálogos Electrónicos](https://www.gob.pe/perucompras) (https://www.datosabiertos.gob.pe/dataset/%C3%B3rdenes-de-compra-realizadas-trav%C3%A9s-de-los-cat%C3%A1logos-electr%C3%B3nicos-central-de-compras)
 
 ---
 
